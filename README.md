@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Привет, я Андрей
 
-<!--
-**blo0BY/blo0BY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент 2 курса (Компьютерная безопасность)
 
-Here are some ideas to get you started:
+💻 Стек:
+- C++
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Сейчас:
+- Изучаю backend-разработку
+- Работаю над учебными и pet-проектами
+
+📫 Связь: aalebastrov43@gmail.com
